@@ -22,7 +22,7 @@ An interactive Power BI dashboard visualizing student enrollment trends, demogra
 The academic planning team needs visibility into enrollment trends, demographic patterns, and program performance to make informed decisions about resource allocation and student support.
 
 > **Key questions this dashboard answers:**
-> - How many students enrolled each semester and how has it changed year over year?
+> - How many students enrolled each semester?
 > - Which programs are growing or shrinking in enrollment?
 > - Are certain demographics withdrawing at higher rates?
 > - Which regions and age groups are most represented?
